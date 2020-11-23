@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zulym\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zulym\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\bin\Debug\netcoreapp3.1\Calendario.exe
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\bin\Debug\netcoreapp3.1\Calendario.deps.json
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\bin\Debug\netcoreapp3.1\Calendario.runtimeconfig.json
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\bin\Debug\netcoreapp3.1\Calendario.runtimeconfig.dev.json
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\bin\Debug\netcoreapp3.1\Calendario.dll
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\bin\Debug\netcoreapp3.1\Calendario.pdb
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\obj\Debug\netcoreapp3.1\Calendario.csprojAssemblyReference.cache
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\obj\Debug\netcoreapp3.1\Calendario.Form1.resources
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\obj\Debug\netcoreapp3.1\Calendario.csproj.GenerateResource.cache
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\obj\Debug\netcoreapp3.1\Calendario.AssemblyInfoInputs.cache
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\obj\Debug\netcoreapp3.1\Calendario.AssemblyInfo.cs
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\obj\Debug\netcoreapp3.1\Calendario.csproj.CoreCompileInputs.cache
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\obj\Debug\netcoreapp3.1\Calendario.dll
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\obj\Debug\netcoreapp3.1\Calendario.pdb
+C:\Users\zulym\OneDrive\Documentos\GitHub\Calendario\Calendario\obj\Debug\netcoreapp3.1\Calendario.genruntimeconfig.cache
